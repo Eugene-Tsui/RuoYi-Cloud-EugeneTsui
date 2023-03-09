@@ -55,3 +55,13 @@ com.ruoyi
 15. 服务监控：监视当前系统CPU、内存、磁盘、堆栈等相关信息。
 16. 在线构建器：拖动表单元素生成相应的HTML代码。
 17. 连接池监视：监视当前系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
+
+## 启动模块
+
++ RuoYiGatewayApplication （网关模块 必须）
++ RuoYiAuthApplication （认证模块 必须）
++ RuoYiSystemApplication （系统模块 必须）
++ RuoYiMonitorApplication （监控中心 可选）
++ RuoYiGenApplication （代码生成 可选）
++ RuoYiJobApplication （定时任务 可选）
++ RuoYFileApplication （文件服务 可选）
