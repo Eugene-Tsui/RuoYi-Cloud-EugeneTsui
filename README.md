@@ -1,4 +1,3 @@
-<h1 style="text-align: center;margin: 30px 0 30px; font-weight: bold;">RuoYi v3.6.2</h1>
 <h4 style="text-align: center ">基于 Vue/Element UI 和 Spring Boot/Spring Cloud & Alibaba 前后端分离的分布式微服务架构</h4>
 
 ## 系统模块
