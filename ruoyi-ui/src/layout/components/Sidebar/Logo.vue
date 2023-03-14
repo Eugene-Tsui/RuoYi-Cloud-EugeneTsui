@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      title: '若依管理系统',
+      title: 'EugeneTsui后台管理框架',
       logo: logoImg
     }
   }
